@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote Work Library</title>
+    <link>https://remoteworklibrary.github.io/</link>
+    <description>Recent content on Remote Work Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2020 22:28:48 +0200</lastBuildDate>
+    
+	<atom:link href="https://remoteworklibrary.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Online Retros</title>
+      <link>https://remoteworklibrary.github.io/posts/tools-online-retros/</link>
+      <pubDate>Wed, 15 Apr 2020 22:28:48 +0200</pubDate>
+      
+      <guid>https://remoteworklibrary.github.io/posts/tools-online-retros/</guid>
+      <description>&lt;p&gt;A Retrospective is an opportunity for the Team to inspect itself and create a plan for improvements to be enacted.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Whiteboard</title>
+      <link>https://remoteworklibrary.github.io/posts/tools-digital-whiteboard/</link>
+      <pubDate>Wed, 15 Apr 2020 20:52:17 +0200</pubDate>
+      
+      <guid>https://remoteworklibrary.github.io/posts/tools-digital-whiteboard/</guid>
+      <description>&lt;p&gt;Interactive whiteboards, often known as SmartBoards, combine a computer, projector, and dry erase board to make an interactive surface.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
