@@ -6,10 +6,19 @@
     <description>Recent content in tool on Remote Work Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2020 22:28:48 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 19:24:31 +0200</lastBuildDate>
     
 	<atom:link href="https://remoteworklibrary.github.io/categories/tool/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Virtual Coffee Breaks</title>
+      <link>https://remoteworklibrary.github.io/posts/virtual-coffee-breaks/</link>
+      <pubDate>Sun, 03 May 2020 19:24:31 +0200</pubDate>
+      
+      <guid>https://remoteworklibrary.github.io/posts/virtual-coffee-breaks/</guid>
+      <description>&lt;p&gt;Breaks are important. Taking breaks together with colleagues is also important. What usually just happens in normal office routine needs some coordination and tools in a remote work situation.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Online Retros</title>

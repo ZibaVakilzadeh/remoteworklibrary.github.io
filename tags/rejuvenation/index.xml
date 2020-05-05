@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>culture on Remote Work Library</title>
-    <link>https://remoteworklibrary.github.io/categories/culture/</link>
-    <description>Recent content in culture on Remote Work Library</description>
+    <title>rejuvenation on Remote Work Library</title>
+    <link>https://remoteworklibrary.github.io/tags/rejuvenation/</link>
+    <description>Recent content in rejuvenation on Remote Work Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 19:24:31 +0200</lastBuildDate>
     
-	<atom:link href="https://remoteworklibrary.github.io/categories/culture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://remoteworklibrary.github.io/tags/rejuvenation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://remoteworklibrary.github.io/posts/virtual-coffee-breaks/</guid>
       <description>&lt;p&gt;Breaks are important. Taking breaks together with colleagues is also important. What usually just happens in normal office routine needs some coordination and tools in a remote work situation.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Online Retros</title>
-      <link>https://remoteworklibrary.github.io/posts/tools-online-retros/</link>
-      <pubDate>Wed, 15 Apr 2020 22:28:48 +0200</pubDate>
-      
-      <guid>https://remoteworklibrary.github.io/posts/tools-online-retros/</guid>
-      <description>&lt;p&gt;A Retrospective is an opportunity for the Team to inspect itself and create a plan for improvements to be enacted.&lt;/p&gt;</description>
     </item>
     
   </channel>

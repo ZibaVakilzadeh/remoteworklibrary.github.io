@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Remote Work Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2020 22:28:48 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 19:24:31 +0200</lastBuildDate>
     
 	<atom:link href="https://remoteworklibrary.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>culture</title>
       <link>https://remoteworklibrary.github.io/categories/culture/</link>
-      <pubDate>Wed, 15 Apr 2020 22:28:48 +0200</pubDate>
+      <pubDate>Sun, 03 May 2020 19:24:31 +0200</pubDate>
       
       <guid>https://remoteworklibrary.github.io/categories/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tool</title>
+      <link>https://remoteworklibrary.github.io/categories/tool/</link>
+      <pubDate>Sun, 03 May 2020 19:24:31 +0200</pubDate>
+      
+      <guid>https://remoteworklibrary.github.io/categories/tool/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Wed, 15 Apr 2020 22:28:48 +0200</pubDate>
       
       <guid>https://remoteworklibrary.github.io/categories/practice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tool</title>
-      <link>https://remoteworklibrary.github.io/categories/tool/</link>
-      <pubDate>Wed, 15 Apr 2020 22:28:48 +0200</pubDate>
-      
-      <guid>https://remoteworklibrary.github.io/categories/tool/</guid>
       <description></description>
     </item>
     
