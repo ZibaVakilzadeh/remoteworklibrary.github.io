@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>socialize on Remote Work Library</title>
-    <link>https://remoteworklibrary.github.io/tags/socialize/</link>
+    <link>https://www.remoteworklibrary.io/tags/socialize/</link>
     <description>Recent content in socialize on Remote Work Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 May 2020 23:41:19 +0200</lastBuildDate>
     
-	<atom:link href="https://remoteworklibrary.github.io/tags/socialize/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.remoteworklibrary.io/tags/socialize/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Video Conferencing</title>
-      <link>https://remoteworklibrary.github.io/posts/video-conferencing/</link>
+      <link>https://www.remoteworklibrary.io/posts/video-conferencing/</link>
       <pubDate>Tue, 05 May 2020 23:41:19 +0200</pubDate>
       
-      <guid>https://remoteworklibrary.github.io/posts/video-conferencing/</guid>
+      <guid>https://www.remoteworklibrary.io/posts/video-conferencing/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.&lt;/p&gt;</description>
     </item>
     

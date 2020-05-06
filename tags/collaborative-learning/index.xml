@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaborative Learning on Remote Work Library</title>
-    <link>https://remoteworklibrary.github.io/tags/collaborative-learning/</link>
+    <link>https://www.remoteworklibrary.io/tags/collaborative-learning/</link>
     <description>Recent content in Collaborative Learning on Remote Work Library</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Apr 2020 22:28:48 +0200</lastBuildDate>
     
-	<atom:link href="https://remoteworklibrary.github.io/tags/collaborative-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.remoteworklibrary.io/tags/collaborative-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Online Retros</title>
-      <link>https://remoteworklibrary.github.io/posts/tools-online-retros/</link>
+      <link>https://www.remoteworklibrary.io/posts/tools-online-retros/</link>
       <pubDate>Wed, 15 Apr 2020 22:28:48 +0200</pubDate>
       
-      <guid>https://remoteworklibrary.github.io/posts/tools-online-retros/</guid>
+      <guid>https://www.remoteworklibrary.io/posts/tools-online-retros/</guid>
       <description>&lt;p&gt;A Retrospective is an opportunity for the Team to inspect itself and create a plan for improvements to be enacted.&lt;/p&gt;</description>
     </item>
     
